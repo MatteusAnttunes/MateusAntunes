@@ -1,6 +1,6 @@
 <?php
 
-$preco = 320
+$preco = 320;
 
 $taxa = $preco * 0.12; //calculo de 12% do valor
 
